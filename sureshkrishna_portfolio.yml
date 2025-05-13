@@ -1,0 +1,47 @@
+name: Sureshkrishna Portfolio Website
+preview_image: preview.png
+overview: A modern, responsive portfolio website showcasing Sureshkrishna B's skills,
+  projects, and professional experience as a Data Scientist. Built with HTML, CSS,
+  JavaScript, and TailwindCSS.
+features:
+- 'Responsive Design: Fully responsive layout that works on all devices'
+- 'Modern UI: Clean and professional design with smooth animations'
+- 'Interactive Elements: Interactive navigation, skill bars, and project cards'
+- 'Sections Include: Home/Hero Section, About/Profile, Work Experience, Projects Showcase,
+  Skills & Technologies, Certifications, Achievements, Publications, Contact Form'
+live_demo: https://your-portfolio-url.com
+technologies_used:
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- TailwindCSS
+- Font Awesome
+- AOS (Animate On Scroll library)
+installation_setup:
+- 'Clone the repository: git clone https://github.com/Krishsk27/portfolio-website.git'
+- 'Navigate to the folder: cd portfolio-website'
+- Open index.html in browser or use a live server
+- Deploy using hosting services like GitHub Pages, Netlify, or Vercel
+project_structure:
+  portfolio-website/:
+  - index.html
+  - 'assets/: [profile.jpg, aptitude.jpg, asd.jpeg, cab.png, consultancy.jpg]'
+  - README.md
+  - CNAME (Optional)
+customization:
+- Replace personal info in index.html
+- Replace images with your own
+- Update project descriptions, skills, experience sections
+- Update social media and GitHub links
+- Modify colors via TailwindCSS classes
+responsive_breakpoints:
+  mobile: < 768px
+  tablet: 768px - 1024px
+  desktop: '> 1024px'
+contributing: Issues, feature requests, and contributions are welcome. Check issues
+  page on GitHub.
+license: MIT
+contact:
+  github: https://github.com/Krishsk27
+  linkedin: https://www.linkedin.com/in/sureshkrishna-b-36819225b/
+  email: sureshkrishna.pec@gmail.com
